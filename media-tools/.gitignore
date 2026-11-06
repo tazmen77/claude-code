@@ -1,0 +1,5 @@
+node_modules/
+.venv/
+whisper-models/
+test-output/
+hf-test/renders/
